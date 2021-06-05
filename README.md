@@ -18,6 +18,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Resize Observer with an RXJS Twist](https://javascript.plainenglish.io/resize-observer-with-an-rxjs-twist-8dee5bdedce3?source=rss-1cca34eb1072------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
