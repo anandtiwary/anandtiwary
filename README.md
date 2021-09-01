@@ -9,11 +9,13 @@
 
 - Working full time as a Founding Engineer at [Traceable AI](https://www.traceable.ai/)
 
-- 📝 I regularly write articles on [https://anand-tiwary.medium.com/](https://anand-tiwary.medium.com/)
+- 📝 I regularly write articles on [dev.to](https://dev.to/anandtiwary) and [medium](https://anand-tiwary.medium.com/)
 
 - 💬 Ask me about **Angular, Rxjs, D3Js Javascript & startup life**
 
 - 📫 Drop me a mail at **anand.tiwary@outlook.com**
+
+- Follow me on [Twitter](https://twitter.com/anandtiwary21)
 
 ### Blogs posts
 
